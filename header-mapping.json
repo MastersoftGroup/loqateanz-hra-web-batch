@@ -1,0 +1,128 @@
+{
+  "country": [
+    "Country",
+    "Country Name",
+    "Country Code",
+    "Nation"
+  ],
+  "fullAddress": [
+    "Full Address",
+    "Address",
+    "Complete Address",
+    "Address Line"
+  ],
+  "line1": [
+    "Line 1",
+    "Address Line 1",
+    "address_line_1",
+    "Addressline1"
+  ],
+  "line2": [
+    "Line 2",
+    "Address Line 2",
+    "address_line_2",
+    "Addressline2"
+  ],
+  "line3": [
+    "Line 3",
+    "Address Line 3",
+    "address_line_3",
+    "Addressline3"
+  ],
+  "buildingName": [
+    "Building Name",
+    "Building",
+    "Building Number",
+    "Property Name"
+  ],
+  "subdwelling": [
+    "Subdwelling",
+    "Unit",
+    "Apartment",
+    "Flat"
+  ],
+  "floorLevelNumber": [
+    "Floor Level Number",
+    "Floor Number",
+    "Level Number",
+    "Floor Level"
+  ],
+  "floorLevelType": [
+    "Floor Level Type",
+    "Floor Type",
+    "Level Type",
+    "Floor Classification"
+  ],
+  "flatUnitNumber": [
+    "Flat/Unit Number",
+    "Flat Number",
+    "Unit Number",
+    "Apartment Number"
+  ],
+  "flatUnitType": [
+    "Flat/Unit Type",
+    "Flat Type",
+    "Unit Type",
+    "Apartment Type"
+  ],
+  "street": [
+    "Street",
+    "Street Name",
+    "Street Address",
+    "Street Line"
+  ],
+  "streetNumber": [
+    "Street Number",
+    "Street Address Number",
+    "Number",
+    "Street No"
+  ],
+  "streetName": [
+    "Street Name",
+    "Street",
+    "Name of Street",
+    "Street Title"
+  ],
+  "streetType": [
+    "Street Type",
+    "Type of Street",
+    "Street Category",
+    "Street Classification"
+  ],
+  "postal": [
+    "Postal",
+    "Postal Address",
+    "Mailing Address",
+    "Postal Code"
+  ],
+  "postalType": [
+    "Postal Type",
+    "Postal Code Type",
+    "Mail Type",
+    "Postal Classification"
+  ],
+  "postalNumber": [
+    "Postal Number",
+    "Postal Code",
+    "Zip Code",
+    "Postal Code Number"
+  ],
+  "city": [
+    "City",
+    "City Name",
+    "Municipality",
+    "Town"
+  ],
+  "province": [
+    "Province",
+    "State",
+    "Region",
+    "County"
+  ],
+  "postcode": [
+    "Postcode",
+    "Postal Code",
+    "Zip Code",
+    "Post Code"
+  ]
+}
