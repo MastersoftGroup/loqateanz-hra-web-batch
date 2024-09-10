@@ -1,128 +1,128 @@
 {
   "country": [
-    "Country",
-    "Country Name",
-    "Country Code",
-    "Nation"
+    "country",
+    "country name",
+    "country code",
+    "nation"
   ],
-  "fullAddress": [
-    "Full Address",
-    "Address",
-    "Complete Address",
-    "Address Line"
+  "address": [
+    "full address",
+    "address",
+    "complete address",
+    "address line"
   ],
   "line1": [
-    "Line 1",
-    "Address Line 1",
+    "line 1",
+    "address line 1",
     "address_line_1",
-    "Addressline1"
+    "addressline1"
   ],
   "line2": [
-    "Line 2",
-    "Address Line 2",
+    "line 2",
+    "address line 2",
     "address_line_2",
-    "Addressline2"
+    "addressline2"
   ],
   "line3": [
-    "Line 3",
-    "Address Line 3",
+    "line 3",
+    "address line 3",
     "address_line_3",
-    "Addressline3"
+    "addressline3"
   ],
-  "buildingName": [
-    "Building Name",
-    "Building",
-    "Building Number",
-    "Property Name"
+  "buildingname": [
+    "building name",
+    "building",
+    "building number",
+    "property name"
   ],
   "subdwelling": [
-    "Subdwelling",
-    "Unit",
-    "Apartment",
-    "Flat"
+    "subdwelling",
+    "unit",
+    "apartment",
+    "flat"
   ],
-  "floorLevelNumber": [
-    "Floor Level Number",
-    "Floor Number",
-    "Level Number",
-    "Floor Level"
+  "floorlevelnumber": [
+    "floor level number",
+    "floor number",
+    "level number",
+    "floor level"
   ],
-  "floorLevelType": [
-    "Floor Level Type",
-    "Floor Type",
-    "Level Type",
-    "Floor Classification"
+  "floorleveltype": [
+    "floor level type",
+    "floor type",
+    "level type",
+    "floor classification"
   ],
-  "flatUnitNumber": [
-    "Flat/Unit Number",
-    "Flat Number",
-    "Unit Number",
-    "Apartment Number"
+  "flatunitnumber": [
+    "flat/unit number",
+    "flat number",
+    "unit number",
+    "apartment number"
   ],
-  "flatUnitType": [
-    "Flat/Unit Type",
-    "Flat Type",
-    "Unit Type",
-    "Apartment Type"
+  "flatunittype": [
+    "flat/unit type",
+    "flat type",
+    "unit type",
+    "apartment type"
   ],
   "street": [
-    "Street",
-    "Street Name",
-    "Street Address",
-    "Street Line"
+    "street",
+    "street name",
+    "street address",
+    "street line"
   ],
-  "streetNumber": [
-    "Street Number",
-    "Street Address Number",
-    "Number",
-    "Street No"
+  "streetnumber": [
+    "street number",
+    "street address number",
+    "number",
+    "street no"
   ],
-  "streetName": [
-    "Street Name",
-    "Street",
-    "Name of Street",
-    "Street Title"
+  "streetname": [
+    "street name",
+    "street",
+    "name of street",
+    "street title"
   ],
-  "streetType": [
-    "Street Type",
-    "Type of Street",
-    "Street Category",
-    "Street Classification"
+  "streettype": [
+    "street type",
+    "type of street",
+    "street category",
+    "street classification"
   ],
   "postal": [
-    "Postal",
-    "Postal Address",
-    "Mailing Address",
-    "Postal Code"
+    "postal",
+    "postal address",
+    "mailing address",
+    "postal code"
   ],
-  "postalType": [
-    "Postal Type",
-    "Postal Code Type",
-    "Mail Type",
-    "Postal Classification"
+  "postrtype": [
+    "postal type",
+    "postal code type",
+    "mail type",
+    "postal classification"
   ],
-  "postalNumber": [
-    "Postal Number",
-    "Postal Code",
-    "Zip Code",
-    "Postal Code Number"
+  "postalnumber": [
+    "postal number",
+    "postal code",
+    "zip code",
+    "postal code number"
   ],
   "city": [
-    "City",
-    "City Name",
-    "Municipality",
-    "Town"
+    "city",
+    "city name",
+    "municipality",
+    "town"
   ],
   "province": [
-    "Province",
-    "State",
-    "Region",
-    "County"
+    "province",
+    "state",
+    "region",
+    "county"
   ],
   "postcode": [
-    "Postcode",
-    "Postal Code",
-    "Zip Code",
-    "Post Code"
+    "postcode",
+    "postal code",
+    "zip code",
+    "post code"
   ]
 }
