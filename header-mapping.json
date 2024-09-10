@@ -13,21 +13,15 @@
   ],
   "line1": [
     "line 1",
-    "address line 1",
-    "address_line_1",
-    "addressline1"
+    "address line 1"
   ],
   "line2": [
     "line 2",
-    "address line 2",
-    "address_line_2",
-    "addressline2"
+    "address line 2"
   ],
   "line3": [
     "line 3",
-    "address line 3",
-    "address_line_3",
-    "addressline3"
+    "address line 3"
   ],
   "buildingname": [
     "building name",
@@ -54,13 +48,13 @@
     "floor classification"
   ],
   "flatunitnumber": [
-    "flat/unit number",
+    "flat unit number",
     "flat number",
     "unit number",
     "apartment number"
   ],
   "flatunittype": [
-    "flat/unit type",
+    "flat unit type",
     "flat type",
     "unit type",
     "apartment type"
@@ -95,7 +89,7 @@
     "mailing address",
     "postal code"
   ],
-  "postrtype": [
+  "postaltype": [
     "postal type",
     "postal code type",
     "mail type",
