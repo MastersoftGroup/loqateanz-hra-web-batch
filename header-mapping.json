@@ -1,4 +1,8 @@
-{
+{ 
+  "id": [
+    "unique id",
+    "unique identifier"
+  ],
   "country": [
     "country",
     "country name",
